@@ -1,3 +1,5 @@
+![](http://opencolor.tools/images/fb-open-color-tools.png)
+
 # Open Color Tools
 
 If you want to give feedback or report bugs, please head to the [issues](https://github.com/opencolor-tools/opencolor-tools/issues) (if you don't have a github.com account, [please go create one](https://github.com/join), it's free and really really useful for a lot of things).
